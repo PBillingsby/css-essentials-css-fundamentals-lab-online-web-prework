@@ -9,6 +9,7 @@ h1, p, nav {
 }
 img {
   width: 900px;
+  text-align: center;
 }
 nav a {
   padding: 0 10px;
