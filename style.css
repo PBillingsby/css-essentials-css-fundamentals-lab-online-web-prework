@@ -24,9 +24,8 @@ figcaption {
   text-align: center;
 }
 #details {
-  display:  flex;
-  flex-direction: row;
-  padding: 0 10vw;
+  size: 50%;
+  display:  block;
   width: 100%;
   background-color: red;
 }
