@@ -23,7 +23,7 @@ figcaption {
   width: 800px;
 }
 #details {
-  display:  block;
+  display:  inline-block;
   float: left;
   background-color: red;
 }
