@@ -26,7 +26,7 @@ figcaption {
 #details {
   display:  flex;
   flex-direction: row;
-  padding: 100px;
+  padding: 0 100px;
   width: 100%;
   background-color: red;
 }
