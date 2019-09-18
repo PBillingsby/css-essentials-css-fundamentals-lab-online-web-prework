@@ -4,6 +4,9 @@ body {
   margin: 0;
 }
 
-h1, img, p, nav {
+h1, p, nav {
   text-align: center;
+}
+img {
+  margin: 0 auto;
 }
