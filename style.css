@@ -24,6 +24,5 @@ figcaption {
 }
 #details {
   display:  inline-block;
-  float: left;
   background-color: red;
 }
