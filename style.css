@@ -9,6 +9,7 @@ h1, p, nav {
 }
 img {
   margin: 0 auto;
+  width: 900px;
 }
 nav a {
   padding: 0 10px;
