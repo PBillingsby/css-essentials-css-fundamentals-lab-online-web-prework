@@ -8,7 +8,6 @@ h1, p, nav {
   text-align: center;
 }
 img {
-  margin: 0 auto;
   width: 900px;
 }
 nav a {
@@ -23,6 +22,7 @@ figcaption {
   width: 800px;
 }
 #details {
-  display:  inline-block;
+  display:  block;
+  
   background-color: red;
 }
