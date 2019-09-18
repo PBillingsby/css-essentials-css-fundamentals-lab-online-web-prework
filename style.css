@@ -24,8 +24,12 @@ figcaption {
   text-align: center;
 }
 #details {
-  font-size: 75%;
   display:  block;
   width: 100%;
   background-color: red;
+}
+#details > div {
+  background-color: #aaa;
+  text-align: center;
+  width: 25%;
 }
