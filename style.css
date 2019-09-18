@@ -25,6 +25,6 @@ figcaption {
 }
 #details {
   display:  block;
-  
+  float: red;
   background-color: red;
 }
