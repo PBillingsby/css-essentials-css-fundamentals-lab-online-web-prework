@@ -4,7 +4,7 @@ body {
   margin: 0;
 }
 
-h1, p, nav {
+h1, nav {
   text-align: center;
 }
 img {
@@ -13,6 +13,7 @@ img {
 }
 p {
   width: 800px;
+  margin: 0 auto;
 }
 nav a {
   padding: 0 10px;
