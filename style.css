@@ -10,7 +10,7 @@ h1, p, nav {
 img {
   margin: 0 auto;
 }
-nav {
+nav a {
   padding: 10px 0;
   background: #eee;
 }
