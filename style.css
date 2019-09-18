@@ -11,6 +11,9 @@ img {
   display: block;
   margin: 0 auto;
 }
+p {
+  width: 800px;
+}
 nav a {
   padding: 0 10px;
   background: #eee;
