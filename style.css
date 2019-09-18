@@ -24,7 +24,7 @@ figcaption {
   text-align: center;
 }
 #details {
-  display:  inline-block;
+  display:  flex;
   width: 100%;
   background-color: red;
 }
